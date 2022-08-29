@@ -45,6 +45,8 @@ social:
     link: https://github.com/CheckandRaise
   - icon: weixin
     icon_pack: fab
+    link: yhy-980221
+    {{< icon name="bilibili-brands" pack="custom" >}}
     link: https://space.bilibili.com/57625887/dynamic
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
