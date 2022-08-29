@@ -18,8 +18,8 @@ bio: My research interests include inventory control, dynamic programming and re
 
 # Interests to show in About widget
 interests:
-  - Texas Hold'em
-  - Mahjong
+  - Inventory Control
+  - Texas Hold'em & Mahjong
   - Photogarphy
 
 # Education to show in About widget
