@@ -43,8 +43,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/CheckandRaise
-  - icon: bilibili-brands
-    icon_pack: custom
+  - icon: youtube
+    icon_pack: fab
     link: https://space.bilibili.com/57625887/dynamic
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
