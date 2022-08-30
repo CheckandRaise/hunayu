@@ -43,7 +43,10 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/CheckandRaise
-  - icon: youtube
+  - icon: bilibili
+    icon_pack: fab
+    link: https://space.bilibili.com/57625887/dynamic
+  - icon: r-project
     icon_pack: fab
     link: https://space.bilibili.com/57625887/dynamic
 # Link to a PDF of your resume/CV.
