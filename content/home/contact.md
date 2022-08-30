@@ -18,7 +18,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: huanyu.operationr@gmail.com
-  phone: +852 54266139
+  phone: +852 99996666
   address:
     street: 12 Chak Cheung St, Shatin
     city: Hong Kong
