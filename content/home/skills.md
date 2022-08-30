@@ -17,13 +17,13 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
+    icon: function
     icon_pack: fas
-    name: Statistics
+    name: Mathematics
+  - description: 60%
+    icon: person-swimming
+    icon_pack: fas
+    name: Swimming
   - description: 10%
     icon: camera-retro
     icon_pack: fas
