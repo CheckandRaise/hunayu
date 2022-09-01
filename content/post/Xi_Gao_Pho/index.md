@@ -9,7 +9,7 @@ summary: 西高山上看黄昏的维多利亚港
 projects: []
 
 # Date published
-date: '2022-08-21T00:00:00Z'
+date: '2022-08-21T00:18:00Z'
 
 # Date updated
 lastmod: '2022-09-01T00:00:00Z'
@@ -27,7 +27,6 @@ image:
   focal_point: ''
   placement: 2
   preview_only: false
-  transform:rotate(270deg)
 
 authors:
   - Creator
