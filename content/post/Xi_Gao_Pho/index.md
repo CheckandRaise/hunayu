@@ -25,8 +25,9 @@ featured: false
 image:
   caption: ''
   focal_point: ''
-  placement: 1
+  placement: 2
   preview_only: false
+  transform:rotate(270deg)
 
 authors:
   - Creator
