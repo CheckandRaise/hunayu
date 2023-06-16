@@ -1,9 +1,9 @@
 ---
-title: 菲律宾薄荷岛 Alona Beach
+title: Alona Beach
 subtitle: 早起追海豚,朝霞下的Alona Beach.
 
 # Summary for listings and search engines
-summary: 2023年新年在薄荷岛的旅途.
+summary: 2023年新年在薄荷岛,早起看到了粉色海豚,也意外捕捉到了朝霞下的沙滩.
 
 # Link this post with a project
 projects: []
