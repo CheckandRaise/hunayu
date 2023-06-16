@@ -1,18 +1,18 @@
 ---
-title: 塔门
-subtitle: 阴天的塔门海岸.
+title: 金门大桥
+subtitle: 夜色中的金门大桥.
 
 # Summary for listings and search engines
-summary: 2021年到达香港后的第一次出游,阴冷冬天的塔门海岸.
+summary: 2023年5月第二次旧金山之旅,单人徒步,完成了在三种环境,三个角度拍摄金门大桥的成就.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2020-12-21T00:00:00Z'
+date: '2023-05-26T00:00:00Z'
 
 # Date updated
-lastmod: '2022-08-30T00:00:00Z'
+lastmod: '2023-05-26T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -34,7 +34,7 @@ authors:
 
 tags:
   - Photography
-  - Hong Kong
+  - San Francisco
 
 categories:
   - Photography
