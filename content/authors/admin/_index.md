@@ -63,6 +63,6 @@ email: huanyu.operationr@gmail.com
 highlight_name: true
 ---
 
-I am currently a year-3 student of CUHK.
+I am currently a year-5 student of CUHK.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
