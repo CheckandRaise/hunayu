@@ -65,4 +65,6 @@ highlight_name: true
 
 I am currently a year-5 student of CUHK.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<a href="https://drive.google.com/file/d/16sXXZbYUQT5UTuJLarLQXWKlOlBOVpBw/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <i class="fas fa-download"></i> Download my resumé
+</a>
